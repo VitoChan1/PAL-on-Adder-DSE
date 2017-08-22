@@ -1,8 +1,8 @@
 # PAL-on-Adder-DSE
 Pareto Active Learning on Adder Design Space Exploration
-Vito JIAMIN CHEN
-18-08-2017
-CUHK CSE SUMMER RESEARCH
+ Vito JIAMIN CHEN
+ 18-08-2017
+ CUHK CSE SUMMER RESEARCH
 
 
 # DATA:
